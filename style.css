@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background: linear-gradient(90deg, #00dbde 0%, #6195e4 100%);
+}
+
+.header, .form-group {
+    margin: 20px
+}
+
+.divContent {
+    background-color: #b9e9da;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.logo {
+    width: 100%;
+}
+
+#trending {
+    margin-top: 30px;
+}
+
+.nomeSala {
+    font-size: 20px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.nomeSala:hover {
+    background-color: rgb(161, 234, 236);
+}
+
+.chatCard {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-style: double;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.chatNome {
+    font-weight: 800;
+}
